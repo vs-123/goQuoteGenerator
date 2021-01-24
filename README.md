@@ -1,2 +1,1 @@
-# goQuoteGenerator
-A Quote Generator written in Go.
+## A Quote Generator written in Go.
